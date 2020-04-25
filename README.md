@@ -48,3 +48,6 @@ img = qrcode.make(content, image_factory=factory)
 
 img.save("output/Hello_world.svg")
 </code></pre>
+
+### Reference
+* [qrcode](https://pypi.org/project/qrcode/)
